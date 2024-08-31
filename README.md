@@ -7,12 +7,12 @@ luci-proto-netkeeper（闪讯拨号界面）
 netkeeper-interception（闪讯拦截服务）
 luci-app-netkeeper-interception（闪讯拦截服务界面）
 ```
-_2024.08.31 immortalwrt编译成功
+2024.08.31 immortalwrt编译成功
 
 选择```luci-app-netkeeper-interception```即可全部编译
 
 请自行编译安装后使用
-
+推荐使用immortalwrt-openwrt-21.02(https://github.com/immortalwrt/immortalwrt)源码进行编译
 # 使用方法
 
 ## 普通插件
