@@ -7,13 +7,7 @@ luci-proto-netkeeper（闪讯拨号界面）
 netkeeper-interception（闪讯拦截服务）
 luci-app-netkeeper-interception（闪讯拦截服务界面）
 ```
-
-
 _2024.08.31 immortalwrt编译成功
-
-## 常见问题
-
-Mac地址配置功能未经测试，不保证可用
 
 选择```luci-app-netkeeper-interception```即可全部编译
 
