@@ -1,0 +1,16 @@
+msgid ""
+msgstr ""
+
+"Content-Type: text/plain; charset=UTF-8"
+
+msgid "Netkeeper"
+msgstr "闪讯拨号"
+
+msgid "Netkeeper plugin"
+msgstr "闪讯插件"
+
+msgid "Choice Netkeeper plugin"
+msgstr "选择闪讯拨号插件"
+
+msgid "If Leave empty, no default MAC-Address is configured"
+msgstr "留空则不配置Mac地址"
